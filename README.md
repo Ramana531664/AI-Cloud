@@ -136,30 +136,6 @@ AI Travel Blog Content Generator
 
 
 
----
-
-📜 IBM Certifications
-
-Below are the certifications earned as part of the IBM Internship:
-
-1. Getting Started with Artificial Intelligence
-  <img width="971" height="755" alt="image" src="https://github.com/user-attachments/assets/d80d92ee-bb4f-4903-b318-bcaeb5e066b1" />
-
-
-2. Journey to Cloud: Envisioning Your Solution
-   <img width="971" height="759" alt="image" src="https://github.com/user-attachments/assets/de86689a-e57a-4697-a212-14c4e89cbdf3" />
-
-
-
-3. Lab: Retrieval Augmented Generation with LangChain
-   <img width="979" height="693" alt="image" src="https://github.com/user-attachments/assets/fc714425-3bb0-4284-95de-3f7daf467490" />
-
-
-
-
-
----
-
 🙏 Acknowledgment
 
 Thanks to IBM, AICTE, and Edunet Foundation for this valuable internship opportunity and resources to apply real-world AI and Cloud concepts.
